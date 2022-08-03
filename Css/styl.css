@@ -1,0 +1,23 @@
+
+div{
+    width: 704px;
+    height: 151px;
+    background: pink;
+    margin-left: 23px;
+    padding-left: 238px;
+    padding-bottom: 23px;
+    border: 5px solid;
+    border-color: black;
+
+
+}
+.dff{
+    color: rgb(0, 38, 255);
+    
+}
+.df{
+    margin: 10px;
+    background: coral;
+    width: 200px;
+    height: 100px;
+}

@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+}
+.header{
+    width: 100%;
+    background: #50effd;
+    height: 180px;
+}
+.left{
+    width: 20%;
+    float: left;
+    height: 600px;
+    background: rgb(40, 90, 102);
+}
+.right{
+    width:80%;
+    float: left;
+    height: 600px;
+    background: rgb(100, 127, 172);
+}
+.footer{
+    height: 535px;
+    width: 100%;
+    background: rgb(24, 54, 62);
+}
+.content{
+    height: 200px;
+
+}
