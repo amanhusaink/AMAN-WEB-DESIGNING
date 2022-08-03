@@ -50,3 +50,28 @@ body{
 .lo-bu:hover{
     background: #29487d;
 }
+  .left-sec{
+      width: 50%;
+      float: left;
+      padding-left: 148px;
+      padding-top: 52px;
+  }
+  .right-sec{
+      width: 50%;
+      float: left;
+  }
+.main-bod{
+    background: linear-gradient(white,#D3D8E8);
+    width: 100%;
+    height: 700px;
+}
+.imge{
+    width: 667px;
+    
+}
+.para{
+    font-weight: bold;
+    font-size: 26px;
+    font-family: revert;
+
+}
